@@ -41,11 +41,7 @@ Feel free to explore my work below or connect with me on LinkedIn!
 ---
 
 ## 🏆 GitHub Trophies
-<details>
-  <summary>Click to view trophies 🏆</summary>
-  <br/>
-  ![](https://github-profile-trophy.vercel.app/?username=saurav-sinha-3141&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-</details>
+![](https://github-profile-trophy.vercel.app/?username=saurav-sinha-3141&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
