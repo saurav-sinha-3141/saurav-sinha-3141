@@ -35,7 +35,7 @@ Feel free to explore my work below or connect with me on LinkedIn!
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=saurav-sinha-3141&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=saurav-sinha-3141)][](https://git.io/streak-stats))<br/>
+![](https://streak-stats.demolab.com/?user=saurav-sinha-3141)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-sinha-3141&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
