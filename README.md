@@ -1,58 +1,71 @@
-# 💫 About Me:
-I am a tech enthusiast with a passion for building innovative applications. I focus on creating streamlined user experiences. My projects reflect my commitment to quality and innovation, utilizing modern tools to bring ideas to life.  
-Feel free to explore my work below or connect with me on LinkedIn!
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=300&color=00FFAA&center=true&vCenter=true&width=1000&lines=Welcome+to+My+World!;I'm+Saurav+Sinha;Tech+Enthusiast+%F0%9F%92%BB;Passionate+about+Innovation+and+Creativity;Let's+Build+Something+Amazing!+%F0%9F%9A%80" alt="Typing SVG">
+</div>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sinhasaurav) 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/saurav-sinha-3141) 
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:sauravsinha3141@gmail.com)
+<div align="center">
+  <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="600" alt="Matrix Hacker GIF">
+</div>
 
 ---
 
-# 💻 Tech Stack:
-### Programming Languages:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Frontend Development:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend Development:
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-
-### Databases:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools:
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
-### Data Science and Analysis:
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+## 🌐 **Connect with Me**
+<p align="center">
+  <a href="https://linkedin.com/in/sinhasaurav"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/saurav-sinha-3141"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:sauravsinha3141@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saurav-sinha-3141&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=saurav-sinha-3141)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-sinha-3141&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+## 💻 **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,react,nextjs,html,css,tailwind,bootstrap,express,mongodb,mysql,postgres,firebase,git,github,bash" alt="Tech Stack">
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saurav-sinha-3141&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+## 📊 **GitHub Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saurav-sinha-3141&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://streak-stats.demolab.com?user=saurav-sinha-3141&theme=radical&hide_border=false" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-sinha-3141&theme=radical&layout=compact" alt="Top Languages">
+</div>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🏆 **GitHub Trophies**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saurav-sinha-3141&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="Trophies">
+</div>
 
 ---
 
-### 🌟 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saurav-sinha-3141&theme=react-dark)
+## ✨ **Activity Graph**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurav-sinha-3141&theme=react-dark" alt="GitHub Activity Graph">
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=saurav-sinha-3141&icon=0&color=6)](https://visitcount.itsvg.in)
+## ✍️ **Dev Quote**
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
+</div>
+
+---
+
+## 🌟 **Visitor Count**
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=saurav-sinha-3141&icon=0&color=6" alt="Visitor Count">
+</div>
+
+---
+
+## 🌌 **Let's Build Together!**
+💬 **Feel free to collaborate or discuss exciting ideas!**  
+📧 **Email me at [sauravsinha3141@gmail.com](mailto:sauravsinha3141@gmail.com)**  
+🔗 **[Connect on LinkedIn](https://linkedin.com/in/sinhasaurav)**
+
+---
